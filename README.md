@@ -1,5 +1,5 @@
-# Final_DATA1030
-Predicting S&P500 Stock Prices
+# Final_Project_DATA1030
+Predicting the Price of an S&P500 stock
 
 This repository contains the comprehensive work of my final project for the Hands-on Data Science course. It encompasses all the data utilised, alongside the figures generated and the outcomes achieved. The project involved  data engineering, preprocessing, evaluation of various machine learning models, and hyperparameter tuning to identify the most effective model. The primary goal was to develop a machine learning model capable of accurately predicting S&P 500 stock prices, leveraging historical stock prices, quarterly financial metrics from the preceding quarter, and the sector information of the respective industries. The dataset spans the years 2012 to 2016 and looks at the stock prices of companies in the S&P500 in that period.
 
