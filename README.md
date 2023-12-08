@@ -1,5 +1,5 @@
 # Final_DATA1030
- Using quarterly financial information as well as Previous stock price to predict the Closing Price of an S&amp;P500 Stock.
+Predicting S&P500 Stock Prices
  
 The software, and their respective versions, that I used to code for this project are:
 - Python: 3.11.4
