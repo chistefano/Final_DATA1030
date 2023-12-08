@@ -6,7 +6,7 @@ This repository contains the comprehensive work of my final project for the Hand
 The files containing the different datasets used in this  project are saved in the 'Data' directory.  To better visualize my data and show my results, I also created graphs and tables  which I saved in the 'Figures' directory. 
 
 I tested six different machine learning models and determined that the best one at predicting the stock price was Ridge Regression. This model has an average Root Mean Squared Error of 
-2.35 dollars, with a standard deviation of 0.08. This means that the Ridge Regression model should be able to predict prices 99% of the time within +/- 2.14-2.56 dollars from the real price. The predictions made by this model are also saved in the Data file under 'y_pred'.
+2.35 dollars, with a standard deviation of 0.08. This means that the Ridge Regression model should be able to predict prices 99% of the time within +/- 2.14-2.56 dollars from the real price. The predictions made by this model are also saved in the Data file under 'y_pred'. 
 
 The software, and their respective versions, that I used to code for this project are:
 - Python: 3.11.4
