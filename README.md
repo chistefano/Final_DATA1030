@@ -7,6 +7,8 @@ The various datasets employed in this project are conveniently stored in the 'Da
 
 In this project, I used five different machine-learning models to predict future stock prices. Among them, the Ridge Regression model emerged as the most accurate for forecasting stock prices, achieving the lowest average Root Mean Squared Error (RMSE) of 2.35 dollars. This RMSE value means that, on average, the predictions of the Ridge Regression model are approximately 2.35 dollars away from the actual stock prices. The predictions made by the Ridge Regression Model with tuned hyperparameters are saved in the 'Data' directory  under 'y_pred_ridge'. 
 
+The results file was too large for github, here is the link to the folder containing the results: https://drive.google.com/drive/folders/1KMRdopvcIhGn1YhGySkR10hBy4pknSA5?usp=sharing
+
 The software, and their respective versions, that I used to code for this project are:
 - Python: 3.11.4
 - NumPy: 1.24.3
